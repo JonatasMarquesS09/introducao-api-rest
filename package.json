@@ -1,0 +1,24 @@
+{
+  "name": "introducao-api-rest",
+  "version": "1.0.0",
+  "description": "repositório de praticas framework",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JonatasMarquesS09/introducao-api-rest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JonatasMarquesS09/introducao-api-rest/issues"
+  },
+  "homepage": "https://github.com/JonatasMarquesS09/introducao-api-rest#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
